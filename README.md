@@ -21,3 +21,11 @@ $ quasar dev
 # build for production with minification
 $ quasar build
 ```
+
+## Screenshots
+
+![alt text](https://github.com/nestebe/kodi-play/raw/master/screenshots/localhost-8080-(Galaxy%20S5).png "")
+
+![alt text](https://github.com/nestebe/kodi-play/raw/master/screenshots/localhost-8080-(Galaxy%20S5)%20(3).png "")
+
+![alt text](https://github.com/nestebe/kodi-play/raw/master/screenshots/localhost-8080-(Galaxy%20S5)%20(4).png "")
