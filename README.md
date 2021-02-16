@@ -2,8 +2,6 @@
 
 ## Demo
 
-[Web App](http://demo.dev-worker.com/kodi-play/#/)
-
 [Android App](https://play.google.com/store/apps/details?id=com.devworker.kodiplay)
 
 ## Build Setup
