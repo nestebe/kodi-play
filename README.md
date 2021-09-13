@@ -1,8 +1,5 @@
 # Kodi Play
 
-## Demo
-
-[Android App](https://play.google.com/store/apps/details?id=com.devworker.kodiplay)
 
 ## Build Setup
 
